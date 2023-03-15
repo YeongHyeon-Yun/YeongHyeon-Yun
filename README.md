@@ -1,7 +1,10 @@
+<div align=right>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeongHyeon-Yun&count_bg=%2350CD41&title_bg=%23555555&icon=coronarenderer.svg&icon_color=%23D34848&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## Hi there 👋
-
+  
+  </div>
+  
+<div align=center><h1>Hi there 👋</h1></div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,8 +15,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongHyeon-Yun&show_icons=true&theme=vue-dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwns911)](https://solved.ac/qorwns911)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongHyeon-Yun&layout=compact&theme=tokyonight)
+  
+  </div>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwns911)](https://solved.ac/qorwns911)

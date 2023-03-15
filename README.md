@@ -15,4 +15,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongHyeon-Yun&show_icons=true&theme=vue-dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwns911)](https://solved.ac/qorwns911)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongHyeon-Yun&layout=Demo&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeongHyeon-Yun&layout=compact&theme=tokyonight)
